@@ -21,7 +21,7 @@ The PDF document above contains all the comprehensive diagrams, charts, and deta
 - **Total data points**: 2,049,280 (after cleaning from 2,075,259 original)
 - **Date range**: December 16, 2006 to November 26, 2010
 - **Analysis period**: 1,433 days
-- **Data source**: `household_power_consumption.txt`
+- **Data source**: `[household_power_consumption.txt](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption)`
 
 ![Data Summary Infographic](infographics.png)
 *Comprehensive visual summary of the household energy consumption analysis*
